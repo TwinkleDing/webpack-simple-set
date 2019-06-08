@@ -1,0 +1,2 @@
+# webpack-simple-set
+webpack
